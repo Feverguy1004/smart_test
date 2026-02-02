@@ -1,2 +1,8 @@
-# smart_test
+# smart\_test
+
 수업용 GIT저장소
+
+
+
+수정을 진행합니다
+
